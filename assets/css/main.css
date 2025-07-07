@@ -1093,7 +1093,7 @@ section,
 
 .services .service-item .icon i {
   color: var(--heading-color);
-  font-size: 56px;
+  font-size: 48px; /* Adjusted font size for better fit with new icons */
   transition: ease-in-out 0.3s;
   z-index: 2;
   position: relative;
